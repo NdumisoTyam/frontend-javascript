@@ -17,3 +17,6 @@ This project uses TypeScript and vanilla JavaScript to dynamically render a tabl
 ---
 
 ## 📁 Directory Structure
+
+frontend-javascript/ └── 0x04-TypeScript/ └── task_0/ ├── js/ │   └── main.ts ├── .eslintrc.js ├── package.json ├── tsconfig.json ├── webpack.config.js └── README.m
+
